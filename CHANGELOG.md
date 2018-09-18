@@ -33,6 +33,6 @@ No functionality change.
 
 [CHANGELOG.md]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
-[Unreleased]: compare/v0.1.0...HEAD
-[0.1.1]: compare/v0.1.0..v0.1.1
+[Unreleased]: ../compare/v0.1.1...HEAD
+[0.1.1]: ../compare/v0.1.0...v0.1.1
 [activerecord-suppress_range_error]: https://github.com/kamipo/activerecord-suppress_range_error
