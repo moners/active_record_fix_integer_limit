@@ -10,6 +10,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
+## [0.1.7] - 2018-09-18
+
+No functionality change.
+
+Brain, remember to update those Markdown links to compare view...
+
 ## [0.1.6] - 2018-09-18
 
 No functionality change.
@@ -89,7 +95,9 @@ No functionality change.
 
 [CHANGELOG.md]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
-[Unreleased]: /../compare/v0.1.5...HEAD
+[Unreleased]: /../compare/v0.1.7...HEAD
+[0.1.7]: /../compare/v0.1.6...v0.1.7
+[0.1.6]: /../compare/v0.1.5...v0.1.6
 [0.1.5]: /../compare/v0.1.4...v0.1.5
 [0.1.4]: /../compare/v0.1.3...v0.1.4
 [0.1.3]: /../compare/v0.1.2...v0.1.3
