@@ -10,6 +10,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
+## [0.1.6] - 2018-09-18
+
+No functionality change.
+
+BTW, step 4 and 6 below are completely useless, as they are taken care of by
+`bundle exec rake release`. OK, enough for today. You can resume your normal
+activity, that is functional, efficient, professional, and probably boring.
+
+Release a new version of your gem:
+
+1. Bump version
+2. run `bundle install` (now the `Gemfile.lock` is updated to the right version)
+3. commit changes
+4. run `bundle exec rake release`
+
 ## [0.1.5] - 2018-09-18
 
 No functionality change.
