@@ -10,6 +10,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
+## [0.1.2] - 2018-09-18
+
+No functionality change.
+
+### Changed
+- Last two releases were to fix relative links to the compare view so that it
+  works across Gitlab and Github. Didn't test it on GH yet but it should work.  
+  I know, I should have used a branch for this, as it is irrelevant to the code.
+
 ## [0.1.1] - 2018-09-18
 
 No functionality change.
@@ -33,6 +42,7 @@ No functionality change.
 
 [CHANGELOG.md]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
-[Unreleased]: /../compare/v0.1.1...HEAD
+[Unreleased]: /../compare/v0.1.2...HEAD
+[0.1.2]: /../compare/v0.1.1...v0.1.2
 [0.1.1]: /../compare/v0.1.0...v0.1.1
 [activerecord-suppress_range_error]: https://github.com/kamipo/activerecord-suppress_range_error
