@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
-## [0.1.3] - 2018-09-18
+## [0.1.4] - 2018-09-18
 
 No functionality change.
 
@@ -19,8 +19,17 @@ Now I know:
 2. run `bundle install` (now the `Gemfile.lock` is updated to the right version)
 3. commit changes
 4. `git push`
-5. run `bundle exec gem release`
+5. run `bundle exec rake release`
 6. `git push --tags`
+
+OK, that was to document my rubygems making discovery. Now I'll use branches to
+make such experiments and not bother you with them. Yet this documentation might
+become useful to people like me who are clueless and do not get gem tutorials
+the first time.
+
+## [0.1.3] - 2018-09-18
+
+No functionality change.
 
 ## [0.1.2] - 2018-09-18
 
@@ -54,7 +63,9 @@ No functionality change.
 
 [CHANGELOG.md]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
-[Unreleased]: /../compare/v0.1.2...HEAD
+[Unreleased]: /../compare/v0.1.4...HEAD
+[0.1.2]: /../compare/v0.1.3...v0.1.4
+[0.1.2]: /../compare/v0.1.2...v0.1.3
 [0.1.2]: /../compare/v0.1.1...v0.1.2
 [0.1.1]: /../compare/v0.1.0...v0.1.1
 [activerecord-suppress_range_error]: https://github.com/kamipo/activerecord-suppress_range_error
