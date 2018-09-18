@@ -10,6 +10,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
+## [0.1.5] - 2018-09-18
+
+No functionality change.
+
+Ha! Is this a new form of blogging?
+
+So you know because you're reading this before previous releases, it also serve
+as a "Rubygems Caveats 101". Go, go learn! I'm so stupid sometimes. But my mind,
+hopefully, now has done all the beginner's mistakes related to releasing
+rubygems. Heh.
+
 ## [0.1.4] - 2018-09-18
 
 No functionality change.
@@ -63,9 +74,10 @@ No functionality change.
 
 [CHANGELOG.md]: ./CHANGELOG.md
 [LICENSE]: ./LICENSE
-[Unreleased]: /../compare/v0.1.4...HEAD
-[0.1.2]: /../compare/v0.1.3...v0.1.4
-[0.1.2]: /../compare/v0.1.2...v0.1.3
+[Unreleased]: /../compare/v0.1.5...HEAD
+[0.1.5]: /../compare/v0.1.4...v0.1.5
+[0.1.4]: /../compare/v0.1.3...v0.1.4
+[0.1.3]: /../compare/v0.1.2...v0.1.3
 [0.1.2]: /../compare/v0.1.1...v0.1.2
 [0.1.1]: /../compare/v0.1.0...v0.1.1
 [activerecord-suppress_range_error]: https://github.com/kamipo/activerecord-suppress_range_error
