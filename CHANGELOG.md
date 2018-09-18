@@ -10,6 +10,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Nothing yet. Maybe open an issue?
 
+## [0.1.3] - 2018-09-18
+
+No functionality change.
+
+Now I know:
+1. Bump version
+2. run `bundle install` (now the `Gemfile.lock` is updated to the right version)
+3. commit changes
+4. `git push`
+5. run `bundle exec gem release`
+6. `git push --tags`
+
 ## [0.1.2] - 2018-09-18
 
 No functionality change.
